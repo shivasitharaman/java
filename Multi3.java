@@ -1,4 +1,5 @@
+package java;
 
-public class Multi3 {
+public interface Multi3 {
 
 }
